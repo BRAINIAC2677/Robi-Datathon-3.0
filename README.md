@@ -1,6 +1,6 @@
 # Robi Datathon 3.0
 
-**_P.S. Reached to the Final Round (top 20) of Robi Datathon 3.0. However, couldn't attend the final round due to exam date collision.:disappointed:_**
+**_P.S. Reached to the Final Round (top 20) of Robi Datathon 3.0. However, couldn't attend the final round due to exam date collision._** :disappointed: 
 
 Code repository of team `ggwp-575.`
 
